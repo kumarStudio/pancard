@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.sdshiningdigital.com	TRUE	/	FALSE	1999999999	__cfduid	d8be6a28cdc3ebae189c8f3c46ea35df71599133762
+www.sdshiningdigital.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
